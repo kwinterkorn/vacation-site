@@ -1,0 +1,26 @@
+img{
+  width:300px;
+  height: 250px;
+  border-radius: 20px;
+}
+
+img.first{
+  float: right;
+  width: 300px;
+}
+
+img.second{
+  float: left;
+  width: 300px;
+  margin-right: 10px;
+
+}
+
+img.third{
+  float: right;
+  width: 300px;
+}
+
+.new-zealand{
+  margin-bottom: 25px;
+}
